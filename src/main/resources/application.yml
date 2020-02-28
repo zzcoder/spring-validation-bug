@@ -1,0 +1,6 @@
+test:
+  items:
+    itemOne:
+      COLOR: RED
+    ITEM2:
+      COLOR: BLUE
